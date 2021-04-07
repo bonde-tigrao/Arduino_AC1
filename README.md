@@ -13,3 +13,6 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 Eu e meu grupo fomos chamados para solucionar um problema de arduíno em uma fabrica, e descobrir os metodos mais viáveis de inibi-los, tais como problemas de temperatura, circuito e também uma espécie de alarme, problemas com interruptores, etc...
 
 
+## **SOLUÇÃO:** 
+
+Um botão interruptor e indicador de produção, juntamente à ele o led e, fios condutores e adicionamos as funcionalidades do botão e do led na codificação do arduíno; para que funcionassem corretamente. 
